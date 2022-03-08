@@ -7,6 +7,8 @@ static const Block blocks[] = {
 
 	{"",		"sb-volume.sh",		1,			0},
 
+	{"",		"sb-brightness.sh",	1,			0},
+
 	{"",		"sb-battery.sh",	60,			0},
 };
 
