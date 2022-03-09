@@ -5,9 +5,9 @@ static const Block blocks[] = {
 
 	{"", 		"sb-date.sh",		60,			0},
 
-	{"",		"sb-volume.sh",		1,			0},
+	{"",		"sb-volume.sh",		0,			10},
 
-	{"",		"sb-brightness.sh",	1,			0},
+	{"",		"sb-brightness.sh",	0,			10},
 
 	{"",		"sb-battery.sh",	60,			0},
 };
